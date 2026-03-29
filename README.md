@@ -6,9 +6,6 @@
   <br>
 </p>
   <p>
-    If you'd like to, do sign my <a href="https://consequence.atabook.org">guestbook.</a> I'm eager to give answers. <br> Further information: <a href="https://rentry.co/bureaucrat">rentry</a> <a href="https://en.pronouns.page/@speak">pronouns.page</a> <a href="https://">straw.page</a>
-  </p>
-  <p>
     Work in progress
   </p>
   
